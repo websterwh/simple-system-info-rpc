@@ -1,6 +1,5 @@
 import os
 from pypresence import Presence
-import psutil
 import time
 from os import system
 
